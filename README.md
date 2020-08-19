@@ -42,4 +42,4 @@ Most of the time I work on backend development, but I can also play with fronten
 
 ---
 
-<h1 align='center'> Hello! Keep programming with love :heart: </h1>
+<h1 align='center'> Keep programming with love :heart: </h1>
